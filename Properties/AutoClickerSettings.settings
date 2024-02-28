@@ -1,0 +1,63 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="AutoClicker.Properties" GeneratedClassName="AutoClickerSettings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ActionMode" Type="AutoClicker.Enums.ActionMode" Scope="User">
+      <Value Profile="(Default)">Click</Value>
+    </Setting>
+    <Setting Name="ClickLocationMode" Type="AutoClicker.Enums.LocationMode" Scope="User">
+      <Value Profile="(Default)">CurrentLocation</Value>
+    </Setting>
+    <Setting Name="DragLocationMode" Type="AutoClicker.Enums.LocationMode" Scope="User">
+      <Value Profile="(Default)">CurrentLocation</Value>
+    </Setting>
+    <Setting Name="DropLocationMode" Type="AutoClicker.Enums.LocationMode" Scope="User">
+      <Value Profile="(Default)">CurrentLocation</Value>
+    </Setting>
+    <Setting Name="PickedClickPosition" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">0, 0</Value>
+    </Setting>
+    <Setting Name="PickedDragPosition" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">0, 0</Value>
+    </Setting>
+    <Setting Name="PickedDropPosition" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">0, 0</Value>
+    </Setting>
+    <Setting Name="Hours" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="Minutes" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="Seconds" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="Milliseconds" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="SelectedMouseButton" Type="AutoClicker.Enums.MouseButton" Scope="User">
+      <Value Profile="(Default)">Left</Value>
+    </Setting>
+    <Setting Name="SelectedMouseAction" Type="AutoClicker.Enums.MouseAction" Scope="User">
+      <Value Profile="(Default)">Single</Value>
+    </Setting>
+    <Setting Name="SelectedRepeatMode" Type="AutoClicker.Enums.RepeatMode" Scope="User">
+      <Value Profile="(Default)">Infinite</Value>
+    </Setting>
+    <Setting Name="SelectedTimesToRepeat" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="DragDropSpeed" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="DragDropMotionMode" Type="AutoClicker.Enums.MotionMode" Scope="User">
+      <Value Profile="(Default)">ConstantTime</Value>
+    </Setting>
+    <Setting Name="DragDropTime" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="DragDropAcceleration" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

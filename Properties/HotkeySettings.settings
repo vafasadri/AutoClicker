@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="AutoClicker" GeneratedClassName="HotkeySettings">
+  <Profiles />
+  <Settings>
+    <Setting Name="StartHotkey" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">117</Value>
+    </Setting>
+    <Setting Name="StopHotkey" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">118</Value>
+    </Setting>
+    <Setting Name="ToggleHotkey" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">119</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
